@@ -1,0 +1,113 @@
+Kenneth Dorji 
+CISC 3130 - 1FG 
+Prof Moshe Lowenthal 
+Assignment 1
+June 12 2017
+
+Adel  Gaiter	1000
+                     Previous Balance $3628.82
+4380	Utility Knife		$82
+2333	Linesman Pliers		$149
+1988	Payment			$112
+3080	Payment			$60
+4487	Color Pencils		$132
+2190	Payment			$29
+                     Balance Due $3790.82
+
+Celie  Salerg	1001
+                     Previous Balance $863.82
+3322	Payment			$139
+3337	Linesman Pliers		$143
+3264	Payment			$38
+4399	Torpedo Level		$66
+3560	Framing Hammer		$105
+                     Balance Due $1000.82
+
+Charis  Skelly	1002
+                     Previous Balance $3816.87
+4442	Measuring Tape		$153
+3663	Payment			$5
+4187	Payment			$14
+2087	Payment			$24
+4709	Payment			$10
+2185	Plunge Router		$115
+                     Balance Due $4031.87
+
+Ellen  Eliff	1003
+                     Previous Balance $1731.64
+2663	Linesman Pliers		$129
+1985	Payment			$104
+3509	Payment			$10
+2908	Payment			$115
+4261	Plumb Bob		$129
+2581	Linesman Pliers		$104
+                     Balance Due $1864.64
+
+Jana  Wurstin	1004
+                     Previous Balance $817.05
+1624	Table Saw		$10
+2217	Payment			$20
+4978	Payment			$130
+4668	Circular Saw		$143
+2439	Payment			$56
+2748	Torpedo Level		$86
+                     Balance Due $850.05
+
+Jori  Hardwick	1005
+                     Previous Balance $258.7
+2076	Wood Sawdust		$84
+4001	Payment			$70
+2893	Color Pencils		$92
+3655	Payment			$34
+4522	Wood Sawdust		$57
+                     Balance Due $387.7
+
+Juieta  Bench	1006
+                     Previous Balance $4996.76
+3862	Payment			$91
+1824	Color Pencils		$144
+4942	Payment			$89
+3609	Table Saw		$117
+3164	Payment			$24
+3879	Miter Saw		$45
+                     Balance Due $5098.76
+
+Julissa  Lindores	1007
+                     Previous Balance $3818.6
+3843	Payment			$152
+3508	Framing Hammer		$82
+1731	Torpedo Level		$124
+3155	Payment			$26
+2577	Payment			$86
+                     Balance Due $3760.6
+
+Junia  Poletto	1008
+                     Previous Balance $2295.36
+4155	Payment			$144
+2447	Payment			$1125
+3528	Table Clamps		$90
+4459	Cordless Drill		$95
+1903	Finish Hammer		$46
+3172	Torpedo Level		$12
+                     Balance Due $1269.36
+
+Kipp  Doud	1009
+                     Previous Balance $2388.6
+3055	Belt Sander		$44
+2059	Circular Saw		$118
+4138	Payment			$36
+2306	Payment			$71
+4260	Nail Gun		$1569
+3470	Utility Knife		$2342
+                     Balance Due $6354.6
+
+Sabina  Shwalbe	1010
+                     Previous Balance $2722.46
+4420	Block Plane		$24
+4015	Circular Saw		$125
+2867	Payment			$130
+3969	Utility Knife		$240
+2345	Measuring Tape		$51
+1389	Finish Hammer		$82
+                     Balance Due $3114.46
+
